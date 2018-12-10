@@ -1,6 +1,6 @@
 # [*Deutsche Bahn*](https://en.wikipedia.org/wiki/Deutsche_Bahn) Public Transport API
 
-**The public endpoint is [`2.db.transport.rest`](`https://2.db.transport.rest`).** This API returns data in the [*Friendly Public Transport Format* `1.2.0`](https://github.com/public-transport/friendly-public-transport-format/blob/1.2.0/spec/readme.md).
+**The public endpoint is [`1.db.transport.pbb.lc`](`https://1.db.transport.pbb.lc`).** This API returns data in the [*Friendly Public Transport Format* `1.2.0`](https://github.com/public-transport/friendly-public-transport-format/blob/1.2.0/spec/readme.md).
 
 *Note:* In order to improve this API, I would to know which software projects use it. Please send an **`X-Identifier` header (e.g. `my-awesome-tool`) to let me know who you are**. I you don't provide it, a hash of the client IP will be logged.
 
